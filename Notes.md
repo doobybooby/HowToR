@@ -12,7 +12,7 @@ Atomic Data Type
 1. Integer 
 2. Double
 3. Complex
-4. Character (Char)
+4. Character (Char/String)
 5. Logical (Boolean)
   * ==, equal to
   * !=, not equal to
@@ -71,4 +71,30 @@ Returns
 > typeof(boo)
 [1] "logical"
 ```
+# LOOPS
+* If you want to print whitin the loop, print("Hello World")
+* Make sure the loop is not infinite
 
+## While Loop
+* While(condition is True) {do something}
+
+###### EX, while(counter is less than 12){Print counter. Add 1 to counter}
+```R
+counter <- 0
+while(counter <12){
+  print(counter)
+  counter <- counter +1
+}
+```
+
+## For Loop
+* for(interation){do something}
+
+###### EX, for(i in 1-5) {print i}
+```R
+for(i in 1:5){
+  print(i)
+}
+
+
+# VECTORS
