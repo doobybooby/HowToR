@@ -2,34 +2,11 @@
 * It executes one line at a time, user must specify which line to execute
 * "*#*" is used for comments
 
-## Printing Char/Strings
-* You can use "Quotation Marks" or 'Single Quotes' to print out a char/string.
-* It doesn't matter which one you use
-
-###### EX1
-```R
-"Hello World!" 
-```
-returns
-```R
-> "Hello World!"
-[1] "Hello World!"
-```
-
-###### EX2
-```R
-'Bye World!"
-```
-returns
-```R
-> 'Bye World!'
-[1] 'Bye World!'
-```
-
 ## Types and Variables
 * You assign a value by, variableName<- variableValue
 * To check the type of a variable, *typeof(variable)* 
 * Between int and double, it is default double
+* You can either use "Quotation Marks" or 'Single Quotes' to print out a characters
 
 Atomic Data Type
 1. Integer 
