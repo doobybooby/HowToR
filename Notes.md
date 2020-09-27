@@ -60,4 +60,14 @@ Returns
 > typeof(boo)
 [1] "logical"
 ```
-## Integer
+## Logical Operator
+* ==, equal to
+* !=, not equal to
+* <, less than
+* >, greater than
+* <=, less than or equal to
+* >= greater than or equal to
+* !, not
+* |, or
+* &, and
+* isTrue(x)
