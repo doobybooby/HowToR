@@ -1,5 +1,7 @@
 # Learn How To R
 * It executes one line at a time, user must specify which line to execute
+* R indices starts at 1. (Most Programming languages starts at 0)
+* Everything is a vector
 * "*#*" is used for comments
 
 ## Types and Variables
@@ -117,3 +119,9 @@ if(x>1){
 ## rnorm is used to get random variable
 
 # VECTORS
+* A container that can hold a value. Similar to an array
+* Can only hold data elements of the same type
+* Everything in R is stored as a vector, a single int/char is also stored in a vector.
+
+
+
