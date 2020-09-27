@@ -3,7 +3,7 @@
 
 
 ## Printing Char/Strings
-* You can use "Quotation Marks" or 'apostrofy' to print out a char/string.
+* You can use "Quotation Marks" or 'Single Quotes' to print out a char/string.
 * It doesn't matter which one you use
 ###### EX1
 ```R
