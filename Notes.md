@@ -14,6 +14,17 @@ Atomic Data Type
 3. Complex
 4. Character (Char)
 5. Logical (Boolean)
+  * ==, equal to
+  * !=, not equal to
+  * <, less than
+  * \>, greater than
+  * <=, less than or equal to
+  * \>= greater than or equal to
+  * !, not
+  * |, or
+  * &, and
+  * isTrue(x)
+
 ```R
 # Integer
 x <- 5L
@@ -60,14 +71,4 @@ Returns
 > typeof(boo)
 [1] "logical"
 ```
-## Logical Operator
-* ==, equal to
-* !=, not equal to
-* <, less than
-* >, greater than
-* <=, less than or equal to
-* >= greater than or equal to
-* !, not
-* |, or
-* &, and
-* isTrue(x)
+
