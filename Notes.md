@@ -95,6 +95,23 @@ while(counter <12){
 for(i in 1:5){
   print(i)
 }
+```
+## If, Else, Else If
+* you can either nest the statements, or chain them
+###### EX, chained if, else if, else
+```R
+rm(answer)
+x <- rnorm(1)
+if(x>1){
+  answer <- "X is Greater Than One"
+} else if((x>=-1)){
+  answer <- "X is inbetween Ones"
+}else {
+  answer <- "X is less than one"
+}
+
+
+```
 
 
 # VECTORS
