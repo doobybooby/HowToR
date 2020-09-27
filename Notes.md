@@ -112,6 +112,8 @@ if(x>1){
 
 
 ```
-
+## Law of Large Numbers
+* As your sample grows, the actually measured value converges to the expected value of that measurement
+## rnorm is used to get random variable
 
 # VECTORS
