@@ -27,6 +27,7 @@ Atomic Data Type
   * &, and
   * isTrue(x)
 
+
 ```R
 # Integer
 x <- 5L
