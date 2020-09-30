@@ -8,10 +8,11 @@
 * boxplot() #Boxplot
 * pie() #Pie chart
 * mean()
-  *mean(trim())
+* mean(trim())
 * sort()
 * median()
 * min()
 * max()
 * summary()
 * quantile()
+* choose() #combination
