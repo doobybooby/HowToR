@@ -1,2 +1,2 @@
 # HowToR
-Learning how to use R
+My quick notes on how to use R
